@@ -1,0 +1,109 @@
+*{
+    margin:0;
+    padding:0;
+}
+.first{
+    text-align:center;
+    background-image: url(
+        https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg
+    );
+    padding: 23rem;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.first h1{
+    font-weight: 700;
+    line-height: 1.2;
+    font-size:88px;
+    margin-bottom: 0px 0px 4px;
+    color:#212529;
+}
+.first h3{
+    font-size:28px;
+    color:#212529;
+    margin-bottom:70px ;
+}
+.first a{
+    text-decoration: none;
+    background: #1D809F;
+    padding:20px 40px;
+    color:#fff;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+.second{
+text-align: center;
+padding: 150px;
+}
+.second h2{
+    color: #212529;
+    font-size:32px;
+    margin: 0px 0px 8px;
+}
+
+.second p {
+    color:#212529;
+    font-size:23px;
+    margin: 0px 0px 48px;
+    font-weight: 100;
+}
+.second a{
+    color:#FFFFFF;
+    background-color: rgb(0, 0, 0);
+    border-radius: 4px;
+    padding: 20px 40px;
+    text-decoration: none;
+}
+.third{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    padding: 260px;
+    text-align: center;
+    background-position: center;
+}
+.third p{
+color:#212529;
+font-size: 56px;
+margin:0px 282px 42px;
+font-weight: 700;
+
+}
+.third a{
+  color:#FFFFFF;
+  font-size: 16px;
+  border-radius: 3px;
+  background-color: #1D809F;  
+  padding: 25px 42px;
+  text-decoration: none;
+}
+
+.fourth{
+ background-color:#1D809F ;
+ padding: 150px;
+ text-align: center;
+}
+.fourth h2{
+font-size: 32px;
+color:#FFF;
+margin: 0px 0px 24px;
+}
+.fourth a{
+text-decoration: none;
+border-radius: 2px;
+
+}
+.a{
+    background-color: #fff;
+    color:#000;
+    margin: 0px  300px 0px 0px;
+    padding: 18px 29px;
+}
+.b{
+    background-color:#000 ;
+    color:#fff;
+    margin: 0px 0px 0px 0px;
+    padding: 18px 23px;
+}
+
